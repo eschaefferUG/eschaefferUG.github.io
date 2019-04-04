@@ -2,10 +2,11 @@
 
 Here is a game that will use the HTML Canvas to display
 <h1>  Just a test to see if you can put markup together with markdown.  Should see this fine if if works!</h1>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<canvas id="canvas" width="400" height="400"></canvas>
 ```markdown
 Syntax highlighted code block
 
